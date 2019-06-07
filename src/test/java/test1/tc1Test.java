@@ -13,7 +13,7 @@ public class tc1Test {
 	{
 		WebDriverManager.chromedriver().setup();
 		driver=new ChromeDriver();
-		driver.get("https://www.google.com");
+		driver.get("https://www.seleniumhq.com");
 		
 	}
 
